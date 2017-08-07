@@ -71,7 +71,7 @@ $customterm = array(
       'id'   => $prefix . 'ukuu-twitter-handle',
       'type' => 'text_medium',
       'attributes'  => array(
-        'placeholder' => __( '@sampleteitterhandle', 'UkuuPeople' )
+        'placeholder' => __( '@sampletwitterhandle', 'UkuuPeople' )
       ),
     ) ,
     'ukuu-facebook-url' => array(
